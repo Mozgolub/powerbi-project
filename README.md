@@ -4,7 +4,7 @@
 
 ## Použité data sety
 
-- `athlete_events.csv` - obsahuje jednotlivé sportovce, aporty, roky, města a medaile
+- `athlete_events.csv` - obsahuje jednotlivé sportovce, sporty, roky, města a medaile
 - `aoc_regions.csv` - obsahuje celé názvy států a regiony dle NOC kódu
 
 ## Struktura projektu
